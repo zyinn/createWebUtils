@@ -1,2 +1,2 @@
 # createWebUtils
-Auto Generation JavaWeb Service Code Utils of FITS
+Auto Generation JavaWeb Service Code Utils
