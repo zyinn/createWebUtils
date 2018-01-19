@@ -1,0 +1,6 @@
+com\finruntech\frt\fits\pledge\utils\AutoGenerationJavaCode.class
+com\finruntech\frt\fits\pledge\utils\AutoJavaCodeConfig.class
+com\finruntech\frt\fits\pledge\FitsUtilsApplication.class
+com\finruntech\frt\fits\pledge\service\AutoGenerationService.class
+com\finruntech\frt\fits\pledge\controller\AutoGenerationController.class
+com\finruntech\frt\fits\pledge\utils\testUtils\GenEntityOracle.class

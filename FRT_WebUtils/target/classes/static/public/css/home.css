@@ -1,0 +1,64 @@
+html,
+body {
+    height: 100%;
+    background-color: black}
+body {
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
+    text-align:center
+}
+
+#testP{
+    border: double 1px  #2A3F54;
+    /*float: left;*/
+    margin: 0 auto;
+    background-color: #2A3F54;
+    border-radius:0 0 15px 15px;
+    -moz-border-radius:15px; /* Old Firefox */
+    box-shadow: 8px 8px 5px #888888;
+
+}
+
+
+h3{
+    margin-left: 200px;
+}
+
+.form-control{
+    width: 300px;
+    height: 25px;
+    padding-top: 8px;
+    border-radius:5px 0 5px 0;
+    -moz-border-radius:15px; /* Old Firefox */
+}
+#tail{
+    float: right;
+}
+p{
+    margin-right: 20px;
+}
+input{
+    background-color:lavender;
+    border: hidden;
+
+}
+.flageAdd{
+    float: left;
+    margin-top: 10px;
+    margin-left:10px;
+}
+.icon-add{
+    /*float: left;*/
+    /*margin-top: -15px;*/
+}
+label:hover{
+    cursor: pointer;
+}
+.tail-des{
+    font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif;
+    float: right;
+    color: antiquewhite;
+    font-size: smaller;
+
+}
